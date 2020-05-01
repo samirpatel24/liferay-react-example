@@ -21,7 +21,7 @@ const getBannerContent = async () => {
       "/structured-contents/by-key/" +
       key;
 
-    console.log(url);
+    // console.log(url);
 
     result = await fetch(url, requestOptions, {
       mode: "no-cors", // 'cors' by default
