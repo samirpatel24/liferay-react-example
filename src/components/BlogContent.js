@@ -7,7 +7,6 @@ import Blog from "./Blog";
 const domain = process.env.REACT_APP_DOMAIN;
 // const { GraphQLClient } = require("graphql-request");
 
-// const AUTHORIZATION_TOKEN = "dGVzdDphZG1pbjEyMw==";
 // const graphQLClient = new GraphQLClient(
 //   "https://webserver-liferaysamirpatel-dev.lfr.cloud/o/graphql",
 //   {
